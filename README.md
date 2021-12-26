@@ -34,5 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakbf55&show_icons=true&locale=en&layout=compact" alt="burakbf55" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakbf55&show_icons=true&locale=en" alt="burakbf55" /></p>
 
