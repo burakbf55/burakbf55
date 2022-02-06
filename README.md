@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Öğme</h1>
-<h3 align="center">Founder & Back-end Developer at Lumino Software</h3>
+<h3 align="center">Python Developer at ThreatMonIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakbf55&label=Profile%20views&color=0e75b6&style=flat" alt="burakbf55" /> </p>
 
