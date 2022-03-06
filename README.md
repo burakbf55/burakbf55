@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@burak0009000](https://medium.com/@burak0009000)
 
-- 💬 Ask me about **Django, Machine Learning, OpenCV, Blockchain, Web3.0**
+- 💬 Ask me about **Django, Machine Learning, OpenCV, Python, Java, C, Web3.0**
 
 - 📫 How to reach me **burak0009000@gmail.com**
 
