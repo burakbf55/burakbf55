@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/burak07217842" target="blank"><img src="https://img.shields.io/twitter/follow/burak07217842?logo=twitter&style=for-the-badge" alt="burak07217842" /></a> </p>
 
-- 🔭 I’m currently working on [Tubitak Projcet](https://github.com/burakbf55/tubitak-part1)
 
-- 🌱 I’m currently learning **Django, Flask, Tornado, Blockchain**
+- 🌱 I’m currently learning **Django, Flask, Cyber Sec, IT
 
 - 📝 I regularly write articles on [https://medium.com/@burak0009000](https://medium.com/@burak0009000)
 
-- 💬 Ask me about **Django, Machine Learning, OpenCV, Python, Java, C, Web3.0**
+- 💬 Ask me about **Django, Machine Learning, Cyber Sec, Python, Java, C**
 
 - 📫 How to reach me **burak0009000@gmail.com**
 
