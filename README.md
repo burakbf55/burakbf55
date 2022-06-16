@@ -2,12 +2,6 @@
 <h3 align="center">Python Developer at ThreatMonIT</h3>
 <h3 align="center">Team Lead at Lumino Soft</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakbf55&label=Profile%20views&color=0e75b6&style=flat" alt="burakbf55" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakbf55" alt="burakbf55" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/burak07217842" target="blank"><img src="https://img.shields.io/twitter/follow/burak07217842?logo=twitter&style=for-the-badge" alt="burak07217842" /></a> </p>
-
 
 - 🌱 I’m working on Python, Django, Java,CTI, Cyber Sec
 
