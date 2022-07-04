@@ -3,7 +3,7 @@
 <h3 align="center">Team Lead at Lumino Soft</h3>
 
 
-🌱 I’m working on Python, Django, Java,CTI, Cyber Sec
+🌱 I’m working on Python, Django, Java, CTI, Cyber Sec
 
 📝 I regularly write articles on [https://medium.com/@burak0009000](https://medium.com/@burak0009000)
 
