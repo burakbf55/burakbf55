@@ -8,7 +8,8 @@
 
 📝 I regularly write articles on [https://medium.com/@burak0009000](https://medium.com/@burak0009000)
 
-🔭 I am 16 years old and studying in science high school.
+🔭 I am a high school student at Muammer Dereli Science High School
+
 
 
 
