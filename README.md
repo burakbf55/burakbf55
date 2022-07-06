@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer at ThreatMonIT</h3>
 <h3 align="center">Team Lead at Lumino Soft</h3>
 
-🔭 I am 16 years old and studying in high school.
+🔭 I am 16 years old and studying in science high school.
 
 🌱 I’m working on Python, Django, Java, CTI, Cyber Sec
 
