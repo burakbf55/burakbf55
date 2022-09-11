@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Öğme</h1>
-<h3 align="center">Python Developer at InfinitumLabs</h3>
+<h3 align="center">Python Developer at Infinitum IT</h3>
 <h3 align="center">Team Lead at Lumino Soft</h3>
 
 
