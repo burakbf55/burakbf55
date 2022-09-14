@@ -8,7 +8,7 @@
 
 📝 I regularly write articles on [https://medium.com/@burak0009000](https://medium.com/@burak0009000)
 
-🔭 I am a 16 year old software developer.
+🔭 I am a 16 year old software developer
 
 
 
