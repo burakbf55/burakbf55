@@ -11,8 +11,16 @@
 🔭 I am a 16 year old software developer
 
 
+<h2>About Me</h3>
+<h3><li>More than 3 years of professional software development work experience.</li></h2>
+<h3><li>Cyber security product development</li></h2>
+<h2>My Professional Fields</h3>
+<h3><li>Django | PostgreSQL | Django Rest Framework | React </li></h2>
+<h2>My Tech Skills</h1>
+<h3><li>Python | Java | C | Go </li></h2>
 
-<li><h2>deneme</h2></li>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
