@@ -12,7 +12,7 @@
 
 
 
-<li><h3>deneme</h3></li>
+<li><h2>deneme</h2></li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
