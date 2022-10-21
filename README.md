@@ -8,8 +8,6 @@
 
 📝 I regularly write articles on [https://medium.com/@burak0009000](https://medium.com/@burak0009000)
 
-🔭 I am a 16 year old software developer
-
 
 <h2>About Me</h3>
 <h3><li>More than 3 years of professional software development work experience.</li></h2>
